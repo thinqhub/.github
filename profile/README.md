@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo-transparent.png" />
+</p>
+
 # Welcome to Nexthinq®
  Innovation at the Speed 🚀 of Thought
 
