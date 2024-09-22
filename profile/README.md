@@ -9,7 +9,7 @@ At Nexthinq®, we are dedicated to delivering cutting-edge software solutions to
 
 ## 🎯 Out Vision
 
-We strive to simplify complex challenges with innovative software and IT solutions that empowers organizations to reach their full potential, placing our customers at the heart of every innovation. We strive to be the trusted partner that enables organizations to unlock new possibilities, transform digitally, and lead in an ever-evolving technological landscape.
+We strive to simplify complex challenges with innovative software and IT solutions that empowers organizations to reach their full potential, placing our customers at the heart of every innovation. We aim to be the trusted partner that enables organizations to unlock new possibilities, transform digitally, and lead in an ever-evolving technological landscape.
 
 ## 🌟 Our Mission
 
