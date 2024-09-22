@@ -42,7 +42,8 @@ We work closely with our clients, ensuring solutions that are not only innovativ
 - LinkedIn: 
 - Twitter: 
 - Facebook: 
-- Xing: 
+- Xing:
+- Github: [https://github.com/nexthinq](https://github.com/nexthinq)
 - Email: info@nexthinq.com
 
 ## 🤝 Join Our Team
