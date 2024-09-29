@@ -39,7 +39,7 @@ We work closely with our clients, ensuring solutions that are not only innovativ
 ## 👥 Connect with Us
 
 - Website: [https://nexthinq.com](https://nexthinq.com)
-- LinkedIn: 
+- LinkedIn: [https://www.linkedin.com/company/nexthinq-solutions](https://www.linkedin.com/company/nexthinq-solutions)
 - Twitter: 
 - Facebook: 
 - Xing:
