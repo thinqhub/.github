@@ -38,12 +38,12 @@ We work closely with our clients, ensuring solutions that are not only innovativ
 
 ## 👥 Connect with Us
 
-- Website: [https://nexthinq.com](https://nexthinq.com)
-- LinkedIn: [https://www.linkedin.com/company/nexthinq-solutions](https://www.linkedin.com/company/nexthinq-solutions)
-- Twitter: 
+- [Website](https://nexthinq.com)
+- [LinkedIn](https://www.linkedin.com/company/nexthinq-solutions)
+- [Twitter](https://x.com/Nexthinq_)
 - Facebook: 
 - Xing:
-- Github: [https://github.com/nexthinq](https://github.com/nexthinq)
+- [Github](https://github.com/nexthinq)
 - Email: info@nexthinq.com
 
 ## 🤝 Join Our Team
