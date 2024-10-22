@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo-transparent.png" />
+  <img src="./transparent.png" />
 </p>
 
 # Welcome to Nexthinq®
@@ -38,11 +38,11 @@ We work closely with our clients, ensuring solutions that are not only innovativ
 
 ## 👥 Connect with Us
 
-- [Website](https://nexthinq.com)
-- [LinkedIn](https://www.linkedin.com/company/nexthinq-solutions)
-- [Twitter](https://x.com/Nexthinq_)
-- [Github](https://github.com/nexthinq)
-- Email: info@nexthinq.com
+- [Website](https://thinqhub.com)
+- [LinkedIn](https://www.linkedin.com/company/thinqhub)
+- [Twitter](https://x.com/thinq_hub)
+- [Github](https://github.com/thinqhub)
+- Email: info@thinqhub.com
 
 ## 🤝 Join Our Team
 
