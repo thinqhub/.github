@@ -2,10 +2,10 @@
   <img src="./transparent.png" />
 </p>
 
-# Welcome to Nexthinq®
+# Welcome to ThinqHub®
  Innovation at the Speed 🚀 of Thought
 
-At Nexthinq®, we are dedicated to delivering cutting-edge software solutions to help businesses thrive in the digital era. From startups to enterprises, our expertise in IT consulting, software development, and digital transformation makes us your trusted partner for success.
+At ThinqHub®, we are dedicated to delivering cutting-edge software solutions to help businesses thrive in the digital era. From startups to enterprises, our expertise in IT consulting, software development, and digital transformation makes us your trusted partner for success.
 
 ## 🎯 Out Vision
 
@@ -17,7 +17,7 @@ To deliver innovative, tailored IT solutions that drive our customers’ success
 
 ## 📈 Our Values
 
-At Nexthinq®, we prioritize our customers in everything we do, driving innovation that meets their unique needs. We operate with integrity, transparency, and a commitment to quality, fostering strong collaboration both within our team and with our clients. Dedicated to continuous improvement, we embrace learning and growth to deliver the best possible solutions.
+At ThinqHub®, we prioritize our customers in everything we do, driving innovation that meets their unique needs. We operate with integrity, transparency, and a commitment to quality, fostering strong collaboration both within our team and with our clients. Dedicated to continuous improvement, we embrace learning and growth to deliver the best possible solutions.
 
 - Customer-Centric Innovation: Every solution starts with our customers’ needs. We innovate with purpose, ensuring that our clients are always at the core of our advancements.
 - Integrity & Transparency: We believe in building trust through open communication, honesty, and ethical business practices in every project we undertake.
@@ -50,4 +50,4 @@ We’re always looking for talented individuals passionate about technology and 
 
 Together, let’s innovate at the Speed of Thought to shape the future of IT solutions.
 
-Nexthinq®
+ThinqHub®
