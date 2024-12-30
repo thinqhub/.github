@@ -40,7 +40,7 @@ We work closely with our clients, ensuring solutions that are not only innovativ
 
 - [Website](https://thinqhub.com)
 - [LinkedIn](https://www.linkedin.com/company/thinqhub)
-- [Twitter](https://x.com/thinq_hub)
+- [Twitter](https://x.com/thinqhubx)
 - [Github](https://github.com/thinqhub)
 - Email: info@thinqhub.com
 
